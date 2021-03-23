@@ -10,7 +10,7 @@ const leaderboard = [
 	},
 	{
 		rank: 1,
-		name: "Hando",
+		name: "Hondo",
 		tag: "Quentin#4055",
 		img: "https://cdn.discordapp.com/avatars/691480635834892380/89c51ecf652a606f0c32a04f0f6e65cb.webp?size=128",
 		date: "20/03/XXXX"
@@ -24,7 +24,7 @@ const clientBar = [
 		prix: 0
 	},
 	{
-		name: "Hando",
+		name: "Hondo",
 		img: "https://cdn.discordapp.com/avatars/691480635834892380/89c51ecf652a606f0c32a04f0f6e65cb.webp?size=128",
 		prix: 1
 	},
